@@ -41,6 +41,13 @@ A serverless Python-powered **Telegram bot** [@iactabot](https://t.me/iactabot) 
 A Flutter **mobile app** for managing large-scale **Scout events**, enabling **real-time tracking** of patrols and checkpoints positions. Features a real-time map, a scoreboard management system, secure authentication, and location sharing. Powered by APIs on a **PHP backend** on a **MySQL database**.
 <p align="right"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> </p>
 
+### 📚 [Enumify-TS](https://github.com/MatteoZanella/enumify-ts)
+The npm TypeScript library [enumify-ts](https://www.npmjs.com/package/enumify-ts/) is a fork of [enumify](https://www.npmjs.com/package/enumify) that fully supports generics, enabling correct type inference for collections.
+<p align="right">
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+	<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white">
+</p>
+
 ## 🏫 University Projects
 
 ### 🩻 [Classification of X-ray Images](https://github.com/MatteoZanella/x-ray)
