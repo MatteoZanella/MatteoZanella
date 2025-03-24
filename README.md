@@ -78,7 +78,7 @@ Evaluation of various Graph Neural Network (GNN) architectures and proposal of d
 📄 **Advanced Topics in Machine Learning and Optimization**
 <p align="right">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=flat&logo=pyg&logoColor=white">
 	<img src="https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=flat&logo=lightning&logoColor=white">
 	<img src="https://img.shields.io/badge/OGB-123456?style=flat&logo=data%20mining&logoColor=white">
     <img src="https://img.shields.io/badge/graph--tool-004080?style=flat">
