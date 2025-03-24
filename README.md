@@ -17,7 +17,7 @@ Research on integrating **Style Transfer** into an **Interactive Neural Painting
 	<img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat&logo=huggingface&logoColor=white">
 </p>
 
-### 🎨 [Algorithms for Overlapping Community Detection](https://github.com/MatteoZanella/community-detection)
+### 🌐 [Algorithms for Overlapping Community Detection](https://github.com/MatteoZanella/community-detection)
 Research on implementing **Overlapping Community Detection** algorithms in graphs, enhancing **Community Identification** through improved label propagation techniques and performance evaluation metrics.
 
 📄 **Bachelor's Thesis**
