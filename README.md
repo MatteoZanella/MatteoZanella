@@ -110,6 +110,6 @@ A Python educational toolkit for extracting and analyzing fabric texture feature
 
 ---
 ## 📫 Let's Connect
-📧 **Email:** [matteo.zanella98@gmail.com](mailto:matteo.zanella98@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/matteozanella](https://linkedin.com/in/matteozanella)
+📧 **Email:** [matteo.zanella98@gmail.com](mailto:matteo.zanella98@gmail.com) \
+💼 **LinkedIn:** [linkedin.com/in/matteozanella](https://linkedin.com/in/matteozanella) \
 🎮 **Gaming & Boardgames:** Always up for a match!
