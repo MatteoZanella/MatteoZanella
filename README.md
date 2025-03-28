@@ -38,7 +38,7 @@ A serverless Python-powered **Telegram bot** [@iactabot](https://t.me/iactabot) 
 </p>
 
 ### ⛺ Estote Parati
-A Flutter **mobile app** for managing large-scale **Scout events**, enabling **real-time tracking** of patrols and checkpoints positions. Features a real-time map, a scoreboard management system, secure authentication, and location sharing. Powered by APIs on a **PHP backend** on a **MySQL database**.
+A Flutter **mobile app** for managing large-scale **Scout events** (used during the _Challenge 2019_ provincial event), enabling **real-time tracking** of patrols and checkpoints positions. Features a real-time map, a scoreboard management system, secure authentication, and location sharing. Powered by REST APIs on a **PHP backend** on a **MySQL database**.
 <p align="right"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> </p>
 
 ### 📚 [Enumify-TS](https://github.com/MatteoZanella/enumify-ts)
