@@ -5,6 +5,13 @@
 Passionate about **AI**, **software engineering**, **puzzles** and **game design**, I thrive at the intersection of **innovation and real-world impact**, tackling new challenges to create solutions that inspire and bring wonder to the world.
 
 ---
+## 🛠️ Work Projects
+### <img src="https://avatars.githubusercontent.com/u/4347291?s=200&v=4" width="20"/> Bending Spoons
+* 💱 ViT: Video Translation
+* 🪞 InsAIght
+* 🧟 VoiceAlive
+* 👶 Future Baby
+
 ## 🔬 Thesis & Research
 
 ### 🎨 [Stylized Interactive Neural Painting](https://github.com/MatteoZanella/Sty-Paint)
@@ -27,7 +34,7 @@ Research on implementing **Overlapping Community Detection** algorithms in graph
 	<img src="https://img.shields.io/badge/graph--tool-004080?style=flat">
 </p>
 
-## 🛠️ Personal Projects
+## 👾 Personal Projects
 
 ### 🎲 [IactaBot](https://github.com/MatteoZanella/iactabot)
 A serverless Python-powered **Telegram bot** [@iactabot](https://t.me/iactabot) for rolling dice, supporting advanced expressions and damage types, currently running on AWS Lambda.
